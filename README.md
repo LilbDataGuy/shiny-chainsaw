@@ -1,4 +1,4 @@
-# shiny-chainsaw
+# MY-FCC-JORNEY
 My Jorney
 BudgetApp.py: Likely a script for managing and tracking a budget, possibly involving categories and transactions.
 
